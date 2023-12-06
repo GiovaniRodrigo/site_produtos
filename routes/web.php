@@ -16,12 +16,7 @@ use Inertia\Inertia;
 */
 
 Route::middleware('auth')->group(function () {
-
-    /**
-     * Home routes
-     */
-    addRoute('web/home');
-
+z
     /**
      * Users routes
      */
