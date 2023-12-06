@@ -1,0 +1,6 @@
+
+/sail_client/logs
+
+/sail_client
+sail-docker-compose-local.yml
+sail-docker-compose-prod.yml
